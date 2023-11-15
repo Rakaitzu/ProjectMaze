@@ -166,7 +166,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _CornerShadowColor: {r: 0.91024756, g: 0.68254286, b: 0.66518503, a: 1}
+    - _CornerShadowColor: {r: 0.9098039, g: 0.68235296, b: 0.6666667, a: 1}
     - _DiffusionProfileAsset: {r: -2.1948957e-10, g: -1.1787802e+22, b: 526403400,
         a: 5.395903e-11}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
