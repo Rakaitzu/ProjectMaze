@@ -77,7 +77,7 @@ Material:
     - _BlendMode: 0
     - _Cloud_Absorption: 1
     - _ConservativeDepthOffsetEnable: 0
-    - _Contrast: 0.75
+    - _Contrast: 0
     - _CullMode: 2
     - _CullModeForward: 2
     - _DepthOffsetEnable: 0
@@ -86,16 +86,16 @@ Material:
     - _DoubleSidedNormalMode: 2
     - _DstBlend: 0
     - _EnableFogOnTransparent: 1
-    - _Erode: 0.75
-    - _Erode_On_Border: 0.75
+    - _Erode: 0
+    - _Erode_On_Border: 0.078
     - _Float: 0.47
     - _Main_Noise_Tiling: 0.5
     - _OpaqueCullMode: 2
     - _Pow: 0.96
-    - _Power: 2
+    - _Power: 10
     - _RenderQueueType: 1
     - _Secondary_Noise: 0.1
-    - _Secondary_Noise_Intensity: 0.1
+    - _Secondary_Noise_Intensity: 1
     - _Secondary_Noise_Tiling: 3
     - _SrcBlend: 1
     - _SurfaceType: 0
