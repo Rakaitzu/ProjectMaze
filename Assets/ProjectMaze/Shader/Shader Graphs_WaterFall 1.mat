@@ -62,7 +62,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _Metallic: 0
-    - _NormalStrength: 0.12
+    - _NormalStrength: 0.02
     - _OpaqueCullMode: 2
     - _RayTracing: 0
     - _ReceivesSSR: 1
@@ -84,7 +84,7 @@ Material:
     - _StencilWriteMaskMV: 41
     - _SupportDecals: 1
     - _SurfaceType: 1
-    - _Transparency: 0.3
+    - _Transparency: 0.1
     - _TransparencyMask: 0
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
