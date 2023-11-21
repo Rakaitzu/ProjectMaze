@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-7773775041338147410
+--- !u!114 &-8542665248635937139
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -14,7 +14,103 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayName: 
   VirtualCamera:
-    exposedName: ac1caeef50827f04880d915cc2ced5ba
+    exposedName: cb83f6a5e3482494281e0bacb7676061
+    defaultValue: {fileID: 0}
+--- !u!114 &-7307913934504752760
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: a8e205999f4ae614582ae069d66ed7b5
+    defaultValue: {fileID: 0}
+--- !u!114 &-7107204039321407538
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 477df060eabe9f7439bf109d6aed084b
+    defaultValue: {fileID: 0}
+--- !u!114 &-6963918517356530277
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: e78e445841d6b7d44ac8d2f5adf0934f
+    defaultValue: {fileID: 0}
+--- !u!114 &-6953223158603567574
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: dd6968deabf2ab742af62e4faf6fd576
+    defaultValue: {fileID: 0}
+--- !u!114 &-6849809334642100589
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 9b42b2b055458de4cbb7aeb738e3260c
+    defaultValue: {fileID: 0}
+--- !u!114 &-6810319283714406358
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: f46a13a0b930cc64e80f1234d941c001
     defaultValue: {fileID: 0}
 --- !u!114 &-5054913241064206652
 MonoBehaviour:
@@ -38,10 +134,10 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 1.3666666666666671
+    m_Start: 1.6666666666666667
     m_ClipIn: 0
     m_Asset: {fileID: 7490037593634461381}
-    m_Duration: 3
+    m_Duration: 3.333333333333333
     m_TimeScale: 1
     m_ParentTrack: {fileID: -5054913241064206652}
     m_EaseInDuration: 0
@@ -104,7 +200,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 1.3666666666666671
+    m_PreExtrapolationTime: 1.6666666666666667
     m_DisplayName: door
   m_Markers:
     m_Objects: []
@@ -126,7 +222,7 @@ MonoBehaviour:
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
---- !u!114 &-3684517344865933610
+--- !u!114 &-4854885311599156666
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -140,9 +236,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayName: 
   VirtualCamera:
-    exposedName: eccbe01f21676d3429c10c72b62a4f2d
+    exposedName: 334047a72867e7e43909e17a9b60ba0a
     defaultValue: {fileID: 0}
---- !u!114 &-2508634473416167421
+--- !u!114 &-3824962274342957511
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
@@ -156,7 +252,55 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   DisplayName: 
   VirtualCamera:
-    exposedName: 4cc03050934ac6b49ad3abbda955ca00
+    exposedName: ba533584bafe90d4b8ce72c1bc62b90e
+    defaultValue: {fileID: 0}
+--- !u!114 &-3609714338081663524
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 3ce46400af32e0d458bede1c08c79f3f
+    defaultValue: {fileID: 0}
+--- !u!114 &-3096478235091483167
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 7ccd4ea69ff44d542b2035248a55b6e4
+    defaultValue: {fileID: 0}
+--- !u!114 &-3075399149583340461
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 4ac66897dec5a6c4c96f2967b5c44d6d
     defaultValue: {fileID: 0}
 --- !u!114 &11400000
 MonoBehaviour:
@@ -205,14 +349,14 @@ MonoBehaviour:
   - m_Version: 1
     m_Start: 0
     m_ClipIn: 0
-    m_Asset: {fileID: -2508634473416167421}
-    m_Duration: 10.950000000000006
+    m_Asset: {fileID: -7107204039321407538}
+    m_Duration: 10.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 391504039877937899}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
     m_BlendInDuration: -1
-    m_BlendOutDuration: 6.583333333333339
+    m_BlendOutDuration: 5.5
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -272,16 +416,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM_1
   - m_Version: 1
-    m_Start: 4.366666666666667
+    m_Start: 5
     m_ClipIn: 0
-    m_Asset: {fileID: -7773775041338147410}
-    m_Duration: 13.3
+    m_Asset: {fileID: -4854885311599156666}
+    m_Duration: 9.9
     m_TimeScale: 1
     m_ParentTrack: {fileID: 391504039877937899}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 6.583333333333339
-    m_BlendOutDuration: 5.966666666666669
+    m_BlendInDuration: 5.5
+    m_BlendOutDuration: 4.4
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -341,16 +485,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM_2
   - m_Version: 1
-    m_Start: 11.7
+    m_Start: 10.5
     m_ClipIn: 0
-    m_Asset: {fileID: -3684517344865933610}
-    m_Duration: 9.216666666666669
+    m_Asset: {fileID: -8542665248635937139}
+    m_Duration: 14.5
     m_TimeScale: 1
     m_ParentTrack: {fileID: 391504039877937899}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 5.966666666666669
-    m_BlendOutDuration: 2
+    m_BlendInDuration: 4.4
+    m_BlendOutDuration: 6.733333333333334
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -410,16 +554,16 @@ MonoBehaviour:
     m_PreExtrapolationTime: 0
     m_DisplayName: CM_3
   - m_Version: 1
-    m_Start: 18.916666666666668
+    m_Start: 18.266666666666666
     m_ClipIn: 0
-    m_Asset: {fileID: 5922069965272453050}
-    m_Duration: 5.116666666666667
+    m_Asset: {fileID: 542603263437097664}
+    m_Duration: 11.733333333333334
     m_TimeScale: 1
     m_ParentTrack: {fileID: 391504039877937899}
     m_EaseInDuration: 0
     m_EaseOutDuration: 0
-    m_BlendInDuration: 2
-    m_BlendOutDuration: -1
+    m_BlendInDuration: 6.733333333333334
+    m_BlendOutDuration: 5
     m_MixInCurve:
       serializedVersion: 2
       m_Curve:
@@ -478,8 +622,519 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: CM_4
+  - m_Version: 1
+    m_Start: 25
+    m_ClipIn: 0
+    m_Asset: {fileID: -3096478235091483167}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_5
+  - m_Version: 1
+    m_Start: 30
+    m_ClipIn: 0
+    m_Asset: {fileID: -6810319283714406358}
+    m_Duration: 9.999999999999986
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 4.999999999999986
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_6
+  - m_Version: 1
+    m_Start: 35
+    m_ClipIn: 0
+    m_Asset: {fileID: -6963918517356530277}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 4.999999999999986
+    m_BlendOutDuration: 5.000000000000014
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_7
+  - m_Version: 1
+    m_Start: 39.999999999999986
+    m_ClipIn: 0
+    m_Asset: {fileID: 1266400559791663215}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5.000000000000014
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_8
+  - m_Version: 1
+    m_Start: 44.999999999999986
+    m_ClipIn: 0
+    m_Asset: {fileID: -3075399149583340461}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_9
+  - m_Version: 1
+    m_Start: 49.999999999999986
+    m_ClipIn: 0
+    m_Asset: {fileID: 8012569176758178890}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_10
+  - m_Version: 1
+    m_Start: 54.999999999999986
+    m_ClipIn: 0
+    m_Asset: {fileID: -7307913934504752760}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_11
+  - m_Version: 1
+    m_Start: 59.999999999999986
+    m_ClipIn: 0
+    m_Asset: {fileID: -3609714338081663524}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 4.999999999999986
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_12
+  - m_Version: 1
+    m_Start: 65
+    m_ClipIn: 0
+    m_Asset: {fileID: 5445943792881150053}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 4.999999999999986
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_13
+  - m_Version: 1
+    m_Start: 70
+    m_ClipIn: 0
+    m_Asset: {fileID: -6953223158603567574}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_14
+  - m_Version: 1
+    m_Start: 75
+    m_ClipIn: 0
+    m_Asset: {fileID: 2573002602285165797}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 5
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_15
+  - m_Version: 1
+    m_Start: 80
+    m_ClipIn: 0
+    m_Asset: {fileID: -3824962274342957511}
+    m_Duration: 10
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 5
+    m_BlendOutDuration: 4.916666666666671
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_16
+  - m_Version: 1
+    m_Start: 85.08333333333333
+    m_ClipIn: 0
+    m_Asset: {fileID: -6849809334642100589}
+    m_Duration: 19.91666666666667
+    m_TimeScale: 1
+    m_ParentTrack: {fileID: 391504039877937899}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: 4.916666666666671
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: CM_17
   m_Markers:
     m_Objects: []
+--- !u!114 &542603263437097664
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: a13b710e39079954ab2816999ba15126
+    defaultValue: {fileID: 0}
+--- !u!114 &1266400559791663215
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 8dbadbc6e9a30054a9a204d2acf251af
+    defaultValue: {fileID: 0}
+--- !u!114 &2573002602285165797
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 55e6b1907fb9ba34fa7f34332187cbe3
+    defaultValue: {fileID: 0}
+--- !u!114 &5445943792881150053
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: 15b2efefdd3f50e499a3a05344c009b1
+    defaultValue: {fileID: 0}
 --- !u!114 &5836356805375507746
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -502,7 +1157,7 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 18.266666666666666
+    m_Start: 90
     m_ClipIn: 0
     m_Asset: {fileID: 8853872267526186093}
     m_Duration: 9.55
@@ -568,7 +1223,7 @@ MonoBehaviour:
     m_PostExtrapolationMode: 1
     m_PreExtrapolationMode: 1
     m_PostExtrapolationTime: Infinity
-    m_PreExtrapolationTime: 18.266666666666666
+    m_PreExtrapolationTime: 90
     m_DisplayName: minotaur6_Imported_FBXExportClip_1
   m_Markers:
     m_Objects: []
@@ -590,22 +1245,6 @@ MonoBehaviour:
   m_OpenClipOffsetRotation: {x: 0, y: 0, z: 0, w: 1}
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
   m_ApplyOffsets: 0
---- !u!114 &5922069965272453050
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
-  m_Name: CinemachineShot
-  m_EditorClassIdentifier: 
-  DisplayName: 
-  VirtualCamera:
-    exposedName: 3a193ee9eaa73a742994faea3b705d5e
-    defaultValue: {fileID: 0}
 --- !u!114 &7490037593634461381
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -628,6 +1267,22 @@ MonoBehaviour:
   m_Loop: 0
   m_Version: 1
   m_Rotation: {x: 0, y: 0, z: 0, w: 1}
+--- !u!114 &8012569176758178890
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+  m_Name: CinemachineShot
+  m_EditorClassIdentifier: 
+  DisplayName: 
+  VirtualCamera:
+    exposedName: f6ab0cd182f002b4e96953f4ada988be
+    defaultValue: {fileID: 0}
 --- !u!114 &8853872267526186093
 MonoBehaviour:
   m_ObjectHideFlags: 1
