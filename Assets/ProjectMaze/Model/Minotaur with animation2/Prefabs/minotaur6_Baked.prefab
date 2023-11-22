@@ -235,7 +235,7 @@ GameObject:
   - component: {fileID: 258533144227239173}
   - component: {fileID: 1303207678703659126}
   m_Layer: 0
-  m_Name: HornMinotaurHigh
+  m_Name: HornMinotaurHigh_LEFT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -732,7 +732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7533800456175884191}
   m_Layer: 0
-  m_Name: hornhigh
+  m_Name: hornhigh_LEFT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1126,7 +1126,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7644441942164157597}
   m_Layer: 0
-  m_Name: hornhigh_0
+  m_Name: hornhigh_RIGHT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2888,7 +2888,7 @@ GameObject:
   - component: {fileID: 4635171566792508904}
   - component: {fileID: 434438644582153658}
   m_Layer: 0
-  m_Name: HornMinotaurHigh
+  m_Name: HornMinotaurHigh_RIGHT
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
