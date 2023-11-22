@@ -84,7 +84,7 @@ Material:
     - _StencilWriteMaskMV: 41
     - _SupportDecals: 1
     - _SurfaceType: 1
-    - _Transparency: 0.2
+    - _Transparency: 0.4
     - _TransparencyMask: 0
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2

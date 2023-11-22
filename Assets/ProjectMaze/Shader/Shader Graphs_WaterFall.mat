@@ -85,7 +85,7 @@ Material:
     - _SupportDecals: 1
     - _SurfaceType: 1
     - _Transparency: 0
-    - _TransparencyMask: 0.2
+    - _TransparencyMask: 0.4
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
