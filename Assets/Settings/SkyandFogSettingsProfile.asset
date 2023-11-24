@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   enable:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   opacity:
     m_OverrideState: 0
     m_Value: 1
@@ -124,8 +124,8 @@ MonoBehaviour:
     m_OverrideState: 0
     m_Value: 1
   enable:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   length:
     m_OverrideState: 0
     m_Value: 0.15
@@ -317,7 +317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   active: 1
   maxShadowDistance:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 500
   directionalTransmissionMultiplier:
     m_OverrideState: 0
