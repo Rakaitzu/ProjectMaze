@@ -5245,6 +5245,7 @@ MonoBehaviour:
   m_Version: 0
   m_Tracks:
   - {fileID: 8189759087015007731}
+  - {fileID: 4657319495000997908}
   - {fileID: -4969790507005192115}
   - {fileID: -596081507679852383}
   - {fileID: 7685114952372138277}
@@ -7508,7 +7509,7 @@ MonoBehaviour:
   m_Muted: 0
   m_CustomPlayableFullTypename: 
   m_Curves: {fileID: 0}
-  m_Parent: {fileID: 8189759087015007731}
+  m_Parent: {fileID: 11400000}
   m_Children:
   - {fileID: 5619198980293172039}
   - {fileID: 6842768375639865136}
@@ -8832,39 +8833,6 @@ MonoBehaviour:
   m_Children: []
   m_Clips:
   - m_Version: 1
-    m_Start: 5.666666666666667
-    m_ClipIn: 1.166666666666667
-    m_Asset: {fileID: 4041914119348069663}
-    m_Duration: 5.333333333333334
-    m_TimeScale: 1
-    m_ParentTrack: {fileID: 6842768375639865136}
-    m_EaseInDuration: 0
-    m_EaseOutDuration: 0
-    m_BlendInDuration: -1
-    m_BlendOutDuration: -1
-    m_MixInCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_MixOutCurve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    m_BlendInCurveMode: 0
-    m_BlendOutCurveMode: 0
-    m_ExposedParameterNames: []
-    m_AnimationCurves: {fileID: 0}
-    m_Recordable: 0
-    m_PostExtrapolationMode: 0
-    m_PreExtrapolationMode: 0
-    m_PostExtrapolationTime: 0
-    m_PreExtrapolationTime: 0
-    m_DisplayName: Audio-StoneDoor
-  - m_Version: 1
     m_Start: 55.45
     m_ClipIn: 1.3333333333333357
     m_Asset: {fileID: -6973355054830023832}
@@ -9224,6 +9192,39 @@ MonoBehaviour:
     m_PostExtrapolationTime: 0
     m_PreExtrapolationTime: 0
     m_DisplayName: Audio-BeastBreath
+  - m_Version: 1
+    m_Start: 5.749999999999997
+    m_ClipIn: 19.833333333333332
+    m_Asset: {fileID: 4041914119348069663}
+    m_Duration: 5.916666666666668
+    m_TimeScale: 1.9999999999999996
+    m_ParentTrack: {fileID: 6842768375639865136}
+    m_EaseInDuration: 0
+    m_EaseOutDuration: 0
+    m_BlendInDuration: -1
+    m_BlendOutDuration: -1
+    m_MixInCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_MixOutCurve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    m_BlendInCurveMode: 0
+    m_BlendOutCurveMode: 0
+    m_ExposedParameterNames: []
+    m_AnimationCurves: {fileID: 0}
+    m_Recordable: 0
+    m_PostExtrapolationMode: 0
+    m_PreExtrapolationMode: 0
+    m_PostExtrapolationTime: 0
+    m_PreExtrapolationTime: 0
+    m_DisplayName: Audio-StoneDoor
   m_Markers:
     m_Objects: []
   m_TrackProperties:
@@ -11689,7 +11690,6 @@ MonoBehaviour:
   - {fileID: 2073471597724759650}
   - {fileID: -907683494931178939}
   - {fileID: 4485342217125656787}
-  - {fileID: 4657319495000997908}
   m_Clips: []
   m_Markers:
     m_Objects: []
